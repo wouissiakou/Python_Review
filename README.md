@@ -9,6 +9,7 @@ Le contenu que nous déveleppons suppose que le lecteur est déjà assez familie
 et [*`contrôle du flux d'instructions`*](https://github.com/gabayae/bases_de_programmation_python-cahiers-virtuels-de-cours/blob/main/04.Contr%C3%B4le_du_flux_d_instructions.ipynb).
 
 ****
+
 `=====================================================================================================================================`
 ### Organisations des calepins:
  
