@@ -14,3 +14,4 @@ et [*`contrôle du flux d'instructions`*](https://github.com/gabayae/bases_de_pr
  
   0. [`Fonctions, Modules et Paquets`](https://github.com/wouissiakou/Python_Review/blob/main/0.Fonctions_Modules_et_Paquets.ipynb)
   1. [`Classes et POO`](https://github.com/wouissiakou/Python_Review/blob/main/1.Classes_et_POO.ipynb)
+  2. [`Python et les données: NumPy et Pandas`](https://github.com/wouissiakou/Python_Review/blob/main/2.Python_et_les_donn%C3%A9es-NumPy_et_Pandas-1.ipynb)
